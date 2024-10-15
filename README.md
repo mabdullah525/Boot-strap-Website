@@ -1,7 +1,7 @@
 ## 🚀 About this project
  This is the Wolf technical website template.
 
-* Only html or css and little bit javascript use in this project
+* Only html or css and Bootstrap5 use in this project
 
 
 ## How to download ?
