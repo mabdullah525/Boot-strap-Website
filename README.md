@@ -1,5 +1,5 @@
 ## 🚀 About this project
- This is the Powerful Digital Solutions With GP website template.
+ This is the Wolf technical website template.
 
 * Only html or css and little bit javascript use in this project
 
